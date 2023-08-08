@@ -1,3 +1,3 @@
 # lenguajeC_practic
 
-## Practicando en lejguaje C para uso de estructura de datos
+## Practicando en leguaje C para uso de estructura de datos
